@@ -1,0 +1,13 @@
+#item-artigos{
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.product-list article{
+    background-color:thistle;
+    border: 1px ;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
